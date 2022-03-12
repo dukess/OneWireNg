@@ -15,8 +15,8 @@
 
 #include <assert.h>
 #include "Arduino.h"
-#include "OneWireNg_BitBang.h"
-#include "platform/Platform_TimeCritical.h"
+#include "../OneWireNg_BitBang.h"
+#include "../platform/Platform_TimeCritical.h"
 
 #ifndef GPIO_PIN_COUNT
 # error "GPIO_PIN_COUNT not defined for this version of SDK"

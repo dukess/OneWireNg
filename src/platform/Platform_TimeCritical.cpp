@@ -11,7 +11,7 @@
  */
 
 #ifdef ARDUINO_ARCH_ESP32
-# include "platform/Platform_TimeCritical.h"
+# include "../platform/Platform_TimeCritical.h"
 
 unsigned esp_int_level[portNUM_PROCESSORS];
 #endif

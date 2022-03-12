@@ -15,8 +15,8 @@
 
 #include <assert.h>
 #include "Arduino.h"
-#include "OneWireNg_BitBang.h"
-#include "platform/Platform_TimeCritical.h"
+#include "../OneWireNg_BitBang.h"
+#include "../platform/Platform_TimeCritical.h"
 
 #ifdef CONFIG_OVERDRIVE_ENABLED
 # if (F_CPU < 16000000L)

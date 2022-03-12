@@ -15,8 +15,8 @@
 
 #include <assert.h>
 #include "Arduino.h"
-#include "OneWireNg_BitBang.h"
-#include "platform/Platform_TimeCritical.h"
+#include "../OneWireNg_BitBang.h"
+#include "../platform/Platform_TimeCritical.h"
 
 /* if defined - internal Arduino pin status in updated */
 //#define PIN_STATUS_UPDATE

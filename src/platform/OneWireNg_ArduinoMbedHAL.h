@@ -16,8 +16,8 @@
 #include <assert.h>
 #include "Arduino.h"
 #include "hal/gpio_api.h"
-#include "OneWireNg_BitBang.h"
-#include "platform/Platform_TimeCritical.h"
+#include "../OneWireNg_BitBang.h"
+#include "../platform/Platform_TimeCritical.h"
 
 /**
  * Arduino MbedOS based platform GPIO specific implementation via HAL API.

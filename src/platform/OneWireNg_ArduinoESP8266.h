@@ -15,9 +15,9 @@
 
 #include <assert.h>
 #include "Arduino.h"
-#include "OneWireNg_BitBang.h"
-#include "platform/Platform_Delay.h"
-#include "platform/Platform_TimeCritical.h"
+#include "../OneWireNg_BitBang.h"
+#include "../platform/Platform_Delay.h"
+#include "../platform/Platform_TimeCritical.h"
 
 #define __READ_GPIO(gs) \
     ((*gs.inReg & gs.bmsk) != 0)

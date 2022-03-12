@@ -1,3 +1,5 @@
+This fork is used for BSB-LAN project (https://github.com/fredlcore/BSB-LAN). Some pathes was changed.
+
 # OneWireNg
 [![Tests status](https://github.com/pstolarz/OneWireNg/actions/workflows/ut.yml/badge.svg?branch=master)](https://github.com/pstolarz/OneWireNg/actions/workflows/ut.yml)
 [![Builds status](https://github.com/pstolarz/OneWireNg/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/pstolarz/OneWireNg/actions/workflows/build.yml)

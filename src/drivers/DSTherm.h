@@ -14,7 +14,7 @@
 #define __OWNG_DSTHERM__
 
 #include <string.h>  /* memcpy */
-#include "OneWireNg.h"
+#include "../OneWireNg.h"
 
 /**
  * Dallas thermometers driver.

@@ -14,7 +14,7 @@
 #ifndef __OWNG_MAX31850__
 #define __OWNG_MAX31850__
 
-#include "drivers/DSTherm.h"
+#include "../drivers/DSTherm.h"
 
 /**
  * Dallas MAX31850/MAX31851 thermocouples driver.
